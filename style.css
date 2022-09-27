@@ -1,6 +1,11 @@
-#banner {
+header{
+	background: #BBBBBB;
+}
+
+#banner{
 	width:100%;
 }
+
 
 .principal{
 	background: #CCCCCC;
@@ -46,3 +51,12 @@ ul {
 .imagembeneficios {
 	width: 50%;
 }
+nav li {
+	display: inline;
+}
+nav a {  
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none; }
